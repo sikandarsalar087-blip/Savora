@@ -1,0 +1,6 @@
+{
+  "name": "Savora - Cook with what you have",
+  "description": "Smart kitchen assistant that turns ingredients you already have into delicious, step-by-step recipes while reducing food waste.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
